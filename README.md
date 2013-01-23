@@ -1,2 +1,2 @@
 This repo contains samples source code for my blog
-[http://www.hrupin.com](WWW.HRUPIN.COM)
+[WWW.HRUPIN.COM](http://www.hrupin.com)
