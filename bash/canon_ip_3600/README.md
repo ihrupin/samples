@@ -1,0 +1,2 @@
+This script help to configure Canon ip3600 printer for Linux Ubuntu 10.04
+Blog page: [Linux Ubuntu 10.04 driver for my Canon IP3600 IJ printer](http://www.hrupin.com/2010/12/linux-ubuntu-10-04-driver-for-canon-ip3600-ij-printer)
