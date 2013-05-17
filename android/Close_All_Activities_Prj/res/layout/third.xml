@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center">
+<TextView  
+    android:layout_height="wrap_content" android:layout_width="wrap_content" android:textStyle="bold" android:textSize="80sp" android:text="3"/>
+<Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="30dp" android:textStyle="bold" android:textSize="20sp" android:text="Close ALL Activities of THIS application" android:id="@+id/buttonCloseAllActivities"></Button>
+</LinearLayout>

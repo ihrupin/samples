@@ -1,0 +1,1664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+	<Document>
+		<name>вул. Ветеранів/ул. Ветеранов to вул. Хрещатик/ул. Крещатик
+		</name>
+		<Style id="roadStyle">
+			<LineStyle>
+				<color>7fcf0064</color>
+				<width>6</width>
+			</LineStyle>
+		</Style>
+		<Snippet><![CDATA[<font size=+1><a href="http://maps.google.com/maps?f=d&hl=en&saddr=49.85,24.016667&daddr=50.45,30.523333&ie=UTF8&om=0">Printable view</a></font>]]></Snippet>
+		<Placemark>
+			<name>Head west on вул. Ветеранів/ул. Ветеранов toward Клепаровская
+				ул./Клепарівська вул.</name>
+			<description><![CDATA[go 110&#160;m]]></description>
+			<address>вул. Ветеранів/ул. Ветеранов</address>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/go.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/go-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/go.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/go-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>24.016670,49.850040,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>24.016670</longitude>
+				<latitude>49.850040</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>270.570190</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>Turn right onto Клепаровская ул./Клепарівська вул.</name>
+			<description><![CDATA[go 400&#160;m]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>24.015110,49.850050,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>24.015110</longitude>
+				<latitude>49.850050</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>270.570190</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>Turn right toward вул. Єрошенка/ул. Ерошенко</name>
+			<description><![CDATA[go 17&#160;m]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>24.014350,49.853600,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>24.014350</longitude>
+				<latitude>49.853600</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>353.866699</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>At the roundabout, take the 2nd exit onto вул. Єрошенка/ул.
+				Ерошенко</name>
+			<description><![CDATA[go 100&#160;m]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>24.014580,49.853640,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>24.014580</longitude>
+				<latitude>49.853640</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>74.904205</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>Turn right onto Клепаровская ул./Клепарівська вул.</name>
+			<description><![CDATA[go 42&#160;m]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>24.014390,49.854260,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>24.014390</longitude>
+				<latitude>49.854260</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>320.191010</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>Continue onto вул. Липинського/ул. Липинского</name>
+			<description><![CDATA[go 550&#160;m]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>24.014580,49.854620,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>24.014580</longitude>
+				<latitude>49.854620</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>18.792086</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>At the roundabout, take the 2nd exit onto E40/M06</name>
+			<description><![CDATA[go 2.6&#160;km]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>24.021370,49.856520,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>24.021370</longitude>
+				<latitude>49.856520</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>91.645111</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>At the roundabout, take the 3rd exit onto вул. Богдана
+				Хмельницького/ул. Богдана Хмельницкого</name>
+			<description><![CDATA[go 1.6&#160;km]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>24.052630,49.864770,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>24.052630</longitude>
+				<latitude>49.864770</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>109.697510</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>Continue onto E40/H17/M06 Go through 1 roundabout</name>
+			<description><![CDATA[go 9.3&#160;km]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>24.063640,49.876900,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>24.063640</longitude>
+				<latitude>49.876900</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>35.642086</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>Turn right onto E40/M06</name>
+			<description><![CDATA[go 152&#160;km]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>24.161070,49.920480,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>24.161070</longitude>
+				<latitude>49.920480</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>17.644646</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>Merge onto E85</name>
+			<description><![CDATA[go 3.2&#160;km]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>25.741650,50.428100,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>25.741650</longitude>
+				<latitude>50.428100</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>77.461670</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>Continue onto E40</name>
+			<description><![CDATA[go 360&#160;km]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>25.779250,50.442870,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>25.779250</longitude>
+				<latitude>50.442870</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>64.886818</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>Keep left at the fork</name>
+			<description><![CDATA[go 5.9&#160;km]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>30.399870,50.458180,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>30.399870</longitude>
+				<latitude>50.458180</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>83.436646</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>Slight right toward вул. В&amp;#39;ячеслава Чорновола/ул.
+				Вячеслава Черновола</name>
+			<description><![CDATA[go 230&#160;m]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>30.481470,50.448570,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>30.481470</longitude>
+				<latitude>50.448570</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>106.721382</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>Turn right onto вул. В&amp;#39;ячеслава Чорновола/ул. Вячеслава
+				Черновола</name>
+			<description><![CDATA[go 1.1&#160;km]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>30.481970,50.447620,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>30.481970</longitude>
+				<latitude>50.447620</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>325.918427</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>Slight right onto вул. Глібова/ул. Глебова</name>
+			<description><![CDATA[go 110&#160;m]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>30.485920,50.457390,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>30.485920</longitude>
+				<latitude>50.457390</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>14.434370</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>Turn right onto вул. Артема/ул. Артема</name>
+			<description><![CDATA[go 1.4&#160;km]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>30.487100,50.457960,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>30.487100</longitude>
+				<latitude>50.457960</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>52.810474</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>Continue straight onto Львовская пл./Львівська пл.</name>
+			<description><![CDATA[go 84&#160;m]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>30.506090,50.455360,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>30.506090</longitude>
+				<latitude>50.455360</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>112.483070</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>Continue onto Большая Житомирская ул./Велика Житомирська вул.
+			</name>
+			<description><![CDATA[go 950&#160;m]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>30.507260,50.455230,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>30.507260</longitude>
+				<latitude>50.455230</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>99.898911</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>Continue onto Михайловская ул./Михайлівська вул.</name>
+			<description><![CDATA[go 600&#160;m]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>30.520510,50.455030,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>30.520510</longitude>
+				<latitude>50.455030</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>130.822098</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>Turn right onto вул. Хрещатик/ул. Крещатик Destination will be
+				on the right</name>
+			<description><![CDATA[go 82&#160;m]]></description>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause.png
+								</href>
+							</Icon>
+							<hotSpot x="0.500000" y="0.000000" xunits="fraction"
+								yunits="fraction" />
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/pause-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>30.524400,50.450400,0</coordinates>
+			</Point>
+			<LookAt>
+				<longitude>30.524400</longitude>
+				<latitude>50.450400</latitude>
+				<range>100.000000</range>
+				<tilt>45.000000</tilt>
+				<heading>130.583954</heading>
+			</LookAt>
+		</Placemark>
+		<Placemark>
+			<name>Arrive at: вул. Хрещатик/ул. Крещатик</name>
+			<address>вул. Хрещатик/ул. Крещатик</address>
+			<StyleMap>
+				<Pair>
+					<key>normal</key>
+					<Style>
+						<IconStyle>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/stop.png
+								</href>
+							</Icon>
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/stop-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<Style>
+						<IconStyle>
+							<scale>1.300000</scale>
+							<Icon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/stop.png
+								</href>
+							</Icon>
+						</IconStyle>
+						<ListStyle>
+							<ItemIcon>
+								<href>http://maps.gstatic.com/intl/en_ALL/mapfiles/kml/paddle/stop-lv.png
+								</href>
+							</ItemIcon>
+						</ListStyle>
+					</Style>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>30.523643,50.449838,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Route</name>
+			<description><![CDATA[Distance: 541&#160;km (about 7 hours 8 mins)<br/>Map data ©2012 Google, Tele Atlas]]></description>
+			<GeometryCollection>
+				<LineString>
+					<coordinates>24.016670,49.850040,0.000000
+						24.015110,49.850050,0.000000 24.015110,49.850050,0.000000
+						24.015010,49.851230,0.000000 24.014400,49.853300,0.000000
+						24.014350,49.853600,0.000000 24.014350,49.853600,0.000000
+						24.014580,49.853640,0.000000 24.014580,49.853640,0.000000
+						24.014820,49.853670,0.000000 24.014900,49.853740,0.000000
+						24.014920,49.853850,0.000000 24.014390,49.854260,0.000000
+						24.014390,49.854260,0.000000 24.014580,49.854620,0.000000
+						24.014580,49.854620,0.000000 24.014790,49.854770,0.000000
+						24.015180,49.854910,0.000000 24.020830,49.856530,0.000000
+						24.021370,49.856520,0.000000 24.021370,49.856520,0.000000
+						24.021650,49.856490,0.000000 24.021850,49.856550,0.000000
+						24.021980,49.856670,0.000000 24.022090,49.856890,0.000000
+						24.022370,49.857150,0.000000 24.023460,49.857700,0.000000
+						24.024180,49.858160,0.000000 24.026700,49.859960,0.000000
+						24.027280,49.860420,0.000000 24.028670,49.861720,0.000000
+						24.029000,49.861990,0.000000 24.029210,49.862110,0.000000
+						24.029800,49.862370,0.000000 24.034220,49.863860,0.000000
+						24.034780,49.864010,0.000000 24.035280,49.864120,0.000000
+						24.038620,49.864570,0.000000 24.044360,49.865220,0.000000
+						24.045680,49.865310,0.000000 24.047210,49.865290,0.000000
+						24.051250,49.864990,0.000000 24.051980,49.864920,0.000000
+						24.052630,49.864770,0.000000 24.052630,49.864770,0.000000
+						24.052870,49.864610,0.000000 24.053120,49.864570,0.000000
+						24.053360,49.864610,0.000000 24.053550,49.864720,0.000000
+						24.053650,49.864870,0.000000 24.053590,49.865080,0.000000
+						24.053650,49.865470,0.000000 24.057310,49.869730,0.000000
+						24.059950,49.872900,0.000000 24.060880,49.873910,0.000000
+						24.062340,49.875670,0.000000 24.062850,49.876190,0.000000
+						24.063640,49.876900,0.000000 24.063640,49.876900,0.000000
+						24.065900,49.878560,0.000000 24.066810,49.879140,0.000000
+						24.067490,49.879510,0.000000 24.069220,49.880200,0.000000
+						24.073530,49.881810,0.000000 24.073970,49.882030,0.000000
+						24.074590,49.882660,0.000000 24.076160,49.884560,0.000000
+						24.076610,49.884920,0.000000 24.077580,49.885560,0.000000
+						24.078520,49.886070,0.000000 24.080530,49.886730,0.000000
+						24.090000,49.889570,0.000000 24.090510,49.889670,0.000000
+						24.097280,49.891750,0.000000 24.097810,49.891900,0.000000
+						24.098580,49.892060,0.000000 24.099330,49.892140,0.000000
+						24.099660,49.892140,0.000000 24.111860,49.891280,0.000000
+						24.113680,49.891200,0.000000 24.114560,49.891220,0.000000
+						24.115720,49.891330,0.000000 24.123890,49.892650,0.000000
+						24.125490,49.892880,0.000000 24.129040,49.893490,0.000000
+						24.129690,49.893630,0.000000 24.130350,49.893830,0.000000
+						24.133900,49.895300,0.000000 24.141090,49.898200,0.000000
+						24.151000,49.902320,0.000000 24.151290,49.902460,0.000000
+						24.151880,49.902920,0.000000 24.152130,49.903240,0.000000
+						24.152410,49.903730,0.000000 24.159830,49.917970,0.000000
+						24.161070,49.920480,0.000000 24.161070,49.920480,0.000000
+						24.163260,49.920080,0.000000 24.164320,49.919920,0.000000
+						24.165180,49.919860,0.000000 24.166840,49.919820,0.000000
+						24.174760,49.920010,0.000000 24.175840,49.919960,0.000000
+						24.187240,49.918650,0.000000 24.190350,49.918580,0.000000
+						24.191200,49.918460,0.000000 24.192370,49.918060,0.000000
+						24.193780,49.917670,0.000000 24.196620,49.917750,0.000000
+						24.198930,49.917330,0.000000 24.201510,49.917150,0.000000
+						24.205110,49.917150,0.000000 24.208120,49.917580,0.000000
+						24.210950,49.917240,0.000000 24.222190,49.916720,0.000000
+						24.227940,49.916550,0.000000 24.256780,49.915090,0.000000
+						24.259790,49.915270,0.000000 24.265620,49.917070,0.000000
+						24.268370,49.918010,0.000000 24.273260,49.919550,0.000000
+						24.277380,49.920330,0.000000 24.282450,49.920840,0.000000
+						24.303220,49.921190,0.000000 24.310510,49.921360,0.000000
+						24.313770,49.921960,0.000000 24.317890,49.923330,0.000000
+						24.323470,49.924110,0.000000 24.324930,49.924190,0.000000
+						24.349140,49.919390,0.000000 24.352400,49.919210,0.000000
+						24.355230,49.919390,0.000000 24.358410,49.919900,0.000000
+						24.360550,49.920580,0.000000 24.362100,49.921790,0.000000
+						24.364070,49.928140,0.000000 24.367080,49.937240,0.000000
+						24.382950,49.948390,0.000000 24.384930,49.952350,0.000000
+						24.386130,49.954230,0.000000 24.389310,49.957840,0.000000
+						24.390080,49.958350,0.000000 24.391020,49.958690,0.000000
+						24.392220,49.959040,0.000000 24.393000,49.959470,0.000000
+						24.393510,49.960070,0.000000 24.395830,49.964620,0.000000
+						24.397630,49.966330,0.000000 24.400720,49.967710,0.000000
+						24.408360,49.970540,0.000000 24.422950,49.978690,0.000000
+						24.424320,49.979040,0.000000 24.430500,49.979550,0.000000
+						24.432310,49.979550,0.000000 24.436600,49.979460,0.000000
+						24.437540,49.979290,0.000000 24.442690,49.977840,0.000000
+						24.451280,49.976890,0.000000 24.454450,49.976720,0.000000
+						24.459770,49.975780,0.000000 24.462780,49.974750,0.000000
+						24.467840,49.973800,0.000000 24.488870,49.969510,0.000000
+						24.492050,49.969170,0.000000 24.495480,49.968990,0.000000
+						24.498400,49.969420,0.000000 24.499340,49.969340,0.000000
+						24.504580,49.968650,0.000000 24.512990,49.967360,0.000000
+						24.516340,49.966680,0.000000 24.518570,49.966080,0.000000
+						24.519430,49.965650,0.000000 24.522690,49.963500,0.000000
+						24.524230,49.962650,0.000000 24.527150,49.961360,0.000000
+						24.527920,49.961180,0.000000 24.531180,49.960930,0.000000
+						24.538990,49.961620,0.000000 24.544140,49.961870,0.000000
+						24.554700,49.964270,0.000000 24.576160,49.961960,0.000000
+						24.578050,49.962130,0.000000 24.581390,49.962730,0.000000
+						24.582770,49.963160,0.000000 24.583800,49.963590,0.000000
+						24.584310,49.963930,0.000000 24.592120,49.968650,0.000000
+						24.598480,49.972690,0.000000 24.600790,49.974230,0.000000
+						24.601910,49.975520,0.000000 24.602600,49.976980,0.000000
+						24.603200,49.977920,0.000000 24.604050,49.978690,0.000000
+						24.605430,49.979380,0.000000 24.606710,49.979720,0.000000
+						24.608860,49.979980,0.000000 24.630660,49.981700,0.000000
+						24.632980,49.981960,0.000000 24.636150,49.982560,0.000000
+						24.650920,49.986080,0.000000 24.656150,49.986500,0.000000
+						24.659050,49.986330,0.000000 24.691860,49.983840,0.000000
+						24.702420,49.983160,0.000000 24.705760,49.982990,0.000000
+						24.715810,49.982900,0.000000 24.761120,49.982810,0.000000
+						24.766360,49.981780,0.000000 24.779490,49.975950,0.000000
+						24.783010,49.974750,0.000000 24.800860,49.970540,0.000000
+						24.833050,49.963240,0.000000 24.842060,49.964020,0.000000
+						24.848860,49.965110,0.000000 24.851350,49.965090,0.000000
+						24.855000,49.964710,0.000000 24.861310,49.964270,0.000000
+						24.864060,49.964220,0.000000 24.867380,49.964620,0.000000
+						24.870220,49.965430,0.000000 24.872830,49.966510,0.000000
+						24.875470,49.968200,0.000000 24.886050,49.976780,0.000000
+						24.888560,49.978630,0.000000 24.891290,49.979920,0.000000
+						24.893780,49.980670,0.000000 24.896410,49.980990,0.000000
+						24.900170,49.980990,0.000000 24.910080,49.979530,0.000000
+						24.913990,49.978290,0.000000 24.916840,49.976760,0.000000
+						24.918520,49.975350,0.000000 24.920920,49.972060,0.000000
+						24.923450,49.968780,0.000000 24.924550,49.967580,0.000000
+						24.926130,49.966360,0.000000 24.927570,49.965740,0.000000
+						24.928990,49.965240,0.000000 24.935360,49.964190,0.000000
+						24.937680,49.964360,0.000000 24.941280,49.965050,0.000000
+						24.943510,49.965050,0.000000 24.947630,49.964620,0.000000
+						24.958020,49.966080,0.000000 24.972610,49.968390,0.000000
+						24.979130,49.966510,0.000000 24.988750,49.963420,0.000000
+						25.004110,49.961620,0.000000 25.023590,49.958270,0.000000
+						25.039040,49.962470,0.000000 25.080410,49.973630,0.000000
+						25.083930,49.974750,0.000000 25.106510,49.989590,0.000000
+						25.108310,49.991050,0.000000 25.115090,50.002470,0.000000
+						25.118520,50.007790,0.000000 25.126930,50.021700,0.000000
+						25.131480,50.029510,0.000000 25.133200,50.032340,0.000000
+						25.141010,50.044780,0.000000 25.146930,50.054660,0.000000
+						25.151740,50.062980,0.000000 25.153200,50.065040,0.000000
+						25.155430,50.066070,0.000000 25.161610,50.067700,0.000000
+						25.164010,50.068470,0.000000 25.165990,50.069500,0.000000
+						25.167530,50.070530,0.000000 25.168130,50.071910,0.000000
+						25.172080,50.084440,0.000000 25.173630,50.090100,0.000000
+						25.174060,50.092680,0.000000 25.175000,50.094910,0.000000
+						25.182380,50.101420,0.000000 25.188300,50.105720,0.000000
+						25.191910,50.109070,0.000000 25.193710,50.110360,0.000000
+						25.208220,50.119030,0.000000 25.210880,50.120740,0.000000
+						25.212340,50.122630,0.000000 25.213880,50.126670,0.000000
+						25.219030,50.138770,0.000000 25.220490,50.142550,0.000000
+						25.222640,50.145640,0.000000 25.225640,50.148120,0.000000
+						25.228560,50.149840,0.000000 25.233110,50.151900,0.000000
+						25.236200,50.153010,0.000000 25.239460,50.153960,0.000000
+						25.251820,50.156800,0.000000 25.256710,50.157740,0.000000
+						25.262290,50.158160,0.000000 25.266240,50.158000,0.000000
+						25.277050,50.156520,0.000000 25.284000,50.155680,0.000000
+						25.288550,50.155070,0.000000 25.292240,50.155160,0.000000
+						25.294910,50.155420,0.000000 25.301510,50.157650,0.000000
+						25.303660,50.157820,0.000000 25.309580,50.157310,0.000000
+						25.314730,50.157820,0.000000 25.342710,50.160220,0.000000
+						25.364170,50.162200,0.000000 25.368890,50.162800,0.000000
+						25.405880,50.183310,0.000000 25.407520,50.184520,0.000000
+						25.411720,50.187000,0.000000 25.416180,50.195330,0.000000
+						25.416870,50.196530,0.000000 25.418930,50.197130,0.000000
+						25.452920,50.206060,0.000000 25.463560,50.212240,0.000000
+						25.465790,50.213700,0.000000 25.466820,50.214900,0.000000
+						25.469230,50.221770,0.000000 25.470520,50.222370,0.000000
+						25.476350,50.224600,0.000000 25.480130,50.226400,0.000000
+						25.484080,50.230520,0.000000 25.489140,50.238590,0.000000
+						25.494030,50.241250,0.000000 25.497720,50.243140,0.000000
+						25.500470,50.245020,0.000000 25.505450,50.248720,0.000000
+						25.507160,50.248890,0.000000 25.511540,50.248800,0.000000
+						25.515920,50.250780,0.000000 25.519700,50.253870,0.000000
+						25.521240,50.257220,0.000000 25.524850,50.260050,0.000000
+						25.527160,50.262710,0.000000 25.532480,50.270000,0.000000
+						25.537720,50.272830,0.000000 25.543560,50.273950,0.000000
+						25.562780,50.276870,0.000000 25.579350,50.279960,0.000000
+						25.593080,50.280040,0.000000 25.594200,50.280730,0.000000
+						25.594970,50.281940,0.000000 25.597030,50.284340,0.000000
+						25.603810,50.285970,0.000000 25.606390,50.287680,0.000000
+						25.615910,50.295070,0.000000 25.616260,50.297900,0.000000
+						25.617370,50.298580,0.000000 25.618740,50.300220,0.000000
+						25.622440,50.307170,0.000000 25.628010,50.310520,0.000000
+						25.662430,50.328630,0.000000 25.672990,50.333350,0.000000
+						25.674110,50.334030,0.000000 25.681830,50.337470,0.000000
+						25.693070,50.347940,0.000000 25.696850,50.350680,0.000000
+						25.703460,50.357890,0.000000 25.703890,50.362010,0.000000
+						25.705610,50.366220,0.000000 25.707060,50.378410,0.000000
+						25.706980,50.381410,0.000000 25.709380,50.381580,0.000000
+						25.709380,50.382530,0.000000 25.708090,50.387250,0.000000
+						25.706120,50.400380,0.000000 25.705860,50.412140,0.000000
+						25.705780,50.412910,0.000000 25.702340,50.421490,0.000000
+						25.702170,50.422440,0.000000 25.702430,50.423900,0.000000
+						25.703120,50.425010,0.000000 25.705000,50.426730,0.000000
+						25.707060,50.428020,0.000000 25.709640,50.428790,0.000000
+						25.711270,50.429050,0.000000 25.728010,50.429730,0.000000
+						25.729380,50.429650,0.000000 25.730750,50.429390,0.000000
+						25.734270,50.428360,0.000000 25.736330,50.427850,0.000000
+						25.737790,50.427670,0.000000 25.739250,50.427760,0.000000
+						25.741650,50.428100,0.000000 25.741650,50.428100,0.000000
+						25.742600,50.428450,0.000000 25.754870,50.434030,0.000000
+						25.757190,50.435740,0.000000 25.759680,50.437030,0.000000
+						25.779250,50.442870,0.000000 25.779250,50.442870,0.000000
+						25.794180,50.447330,0.000000 25.809980,50.451620,0.000000
+						25.820530,50.454710,0.000000 25.832630,50.459260,0.000000
+						25.858640,50.467930,0.000000 25.884390,50.476940,0.000000
+						25.891600,50.479260,0.000000 25.899750,50.481150,0.000000
+						25.914170,50.485010,0.000000 25.920870,50.487070,0.000000
+						25.924130,50.488700,0.000000 25.929880,50.490070,0.000000
+						25.932800,50.490160,0.000000 25.937950,50.489730,0.000000
+						25.944210,50.489810,0.000000 25.949450,50.488960,0.000000
+						25.952880,50.488700,0.000000 25.955290,50.488270,0.000000
+						25.959230,50.488360,0.000000 25.961040,50.488780,0.000000
+						25.970310,50.492560,0.000000 25.979490,50.496420,0.000000
+						25.987040,50.499860,0.000000 25.988330,50.500720,0.000000
+						25.992540,50.505950,0.000000 25.997520,50.508440,0.000000
+						26.000520,50.510760,0.000000 26.003090,50.513590,0.000000
+						26.006010,50.516590,0.000000 26.008670,50.518140,0.000000
+						26.081460,50.553420,0.000000 26.086870,50.555820,0.000000
+						26.099050,50.560630,0.000000 26.099140,50.560710,0.000000
+						26.104720,50.563800,0.000000 26.111330,50.568430,0.000000
+						26.117250,50.572040,0.000000 26.119570,50.573070,0.000000
+						26.123600,50.574790,0.000000 26.130810,50.577450,0.000000
+						26.133900,50.578650,0.000000 26.136770,50.580210,0.000000
+						26.141200,50.583290,0.000000 26.142140,50.583800,0.000000
+						26.143770,50.584910,0.000000 26.145320,50.585780,0.000000
+						26.146520,50.586200,0.000000 26.147800,50.586290,0.000000
+						26.149440,50.586200,0.000000 26.150810,50.586030,0.000000
+						26.152010,50.585520,0.000000 26.153040,50.584910,0.000000
+						26.162650,50.577450,0.000000 26.164630,50.576080,0.000000
+						26.166340,50.575050,0.000000 26.170550,50.572810,0.000000
+						26.188150,50.563970,0.000000 26.190810,50.562860,0.000000
+						26.193550,50.562090,0.000000 26.196640,50.561660,0.000000
+						26.199820,50.561570,0.000000 26.218630,50.563780,0.000000
+						26.220920,50.564040,0.000000 26.224620,50.564400,0.000000
+						26.227540,50.564830,0.000000 26.237760,50.567660,0.000000
+						26.240850,50.568180,0.000000 26.253890,50.569380,0.000000
+						26.258750,50.569990,0.000000 26.267240,50.571370,0.000000
+						26.275140,50.572040,0.000000 26.279340,50.572430,0.000000
+						26.280930,50.572640,0.000000 26.315090,50.580790,0.000000
+						26.316540,50.581280,0.000000 26.322360,50.583850,0.000000
+						26.323430,50.584510,0.000000 26.324310,50.585320,0.000000
+						26.324620,50.585690,0.000000 26.326340,50.588540,0.000000
+						26.327010,50.589300,0.000000 26.328030,50.590220,0.000000
+						26.336720,50.597260,0.000000 26.338070,50.598690,0.000000
+						26.339050,50.599980,0.000000 26.339980,50.601740,0.000000
+						26.340470,50.603610,0.000000 26.340580,50.604060,0.000000
+						26.341010,50.610410,0.000000 26.352110,50.609450,0.000000
+						26.378380,50.607020,0.000000 26.409590,50.604060,0.000000
+						26.432510,50.602000,0.000000 26.449840,50.599330,0.000000
+						26.452250,50.599330,0.000000 26.483920,50.601140,0.000000
+						26.488720,50.601310,0.000000 26.510100,50.602510,0.000000
+						26.522370,50.603290,0.000000 26.548460,50.603710,0.000000
+						26.559110,50.603710,0.000000 26.625020,50.604140,0.000000
+						26.630860,50.604400,0.000000 26.634210,50.605770,0.000000
+						26.652150,50.614700,0.000000 26.655670,50.615300,0.000000
+						26.658760,50.615390,0.000000 26.678750,50.613330,0.000000
+						26.690770,50.612300,0.000000 26.795050,50.602340,0.000000
+						26.811620,50.600790,0.000000 26.845780,50.597530,0.000000
+						26.869900,50.595130,0.000000 26.875650,50.594790,0.000000
+						26.926120,50.597360,0.000000 26.962340,50.599330,0.000000
+						26.975900,50.600110,0.000000 26.987400,50.600620,0.000000
+						27.026710,50.602680,0.000000 27.033580,50.603630,0.000000
+						27.061390,50.607230,0.000000 27.080960,50.609890,0.000000
+						27.091770,50.611270,0.000000 27.095290,50.611010,0.000000
+						27.098210,50.610580,0.000000 27.116320,50.605260,0.000000
+						27.133140,50.600200,0.000000 27.139410,50.599080,0.000000
+						27.143100,50.598990,0.000000 27.146870,50.599250,0.000000
+						27.150240,50.599360,0.000000 27.169880,50.600880,0.000000
+						27.183180,50.601820,0.000000 27.190050,50.602600,0.000000
+						27.195110,50.603970,0.000000 27.198970,50.605860,0.000000
+						27.201890,50.607490,0.000000 27.209270,50.611870,0.000000
+						27.214080,50.614780,0.000000 27.218110,50.616330,0.000000
+						27.223180,50.617270,0.000000 27.223350,50.617270,0.000000
+						27.231070,50.616840,0.000000 27.244550,50.615900,0.000000
+						27.270560,50.614270,0.000000 27.304800,50.611950,0.000000
+						27.316480,50.611270,0.000000 27.365830,50.607830,0.000000
+						27.404710,50.606380,0.000000 27.475860,50.603540,0.000000
+						27.482130,50.603370,0.000000 27.485480,50.603200,0.000000
+						27.493290,50.602260,0.000000 27.528310,50.597700,0.000000
+						27.550710,50.594870,0.000000 27.554060,50.594980,0.000000
+						27.556460,50.595130,0.000000 27.560150,50.596080,0.000000
+						27.568560,50.599510,0.000000 27.572340,50.601230,0.000000
+						27.574650,50.602080,0.000000 27.579380,50.604140,0.000000
+						27.582980,50.606380,0.000000 27.585980,50.609380,0.000000
+						27.587960,50.610840,0.000000 27.590620,50.612040,0.000000
+						27.595770,50.614180,0.000000 27.605300,50.617870,0.000000
+						27.608560,50.618740,0.000000 27.623920,50.621570,0.000000
+						27.641950,50.625080,0.000000 27.646410,50.625860,0.000000
+						27.649580,50.626280,0.000000 27.652760,50.626110,0.000000
+						27.655080,50.625690,0.000000 27.657220,50.624830,0.000000
+						27.658600,50.624140,0.000000 27.660230,50.622850,0.000000
+						27.661770,50.620800,0.000000 27.662370,50.618650,0.000000
+						27.660400,50.612560,0.000000 27.659370,50.609550,0.000000
+						27.657820,50.604570,0.000000 27.658600,50.601820,0.000000
+						27.660400,50.598480,0.000000 27.663230,50.595820,0.000000
+						27.667870,50.592300,0.000000 27.670010,50.590240,0.000000
+						27.672760,50.586970,0.000000 27.674970,50.585440,0.000000
+						27.677050,50.584140,0.000000 27.678790,50.583370,0.000000
+						27.688120,50.581660,0.000000 27.696710,50.580200,0.000000
+						27.717220,50.576510,0.000000 27.765630,50.567920,0.000000
+						27.768980,50.566810,0.000000 27.798930,50.552640,0.000000
+						27.862190,50.534100,0.000000 27.969050,50.502600,0.000000
+						27.995050,50.494880,0.000000 28.009990,50.490590,0.000000
+						28.048440,50.479180,0.000000 28.090560,50.466410,0.000000
+						28.099140,50.463920,0.000000 28.128090,50.455400,0.000000
+						28.148000,50.449320,0.000000 28.182160,50.439260,0.000000
+						28.184480,50.437890,0.000000 28.210060,50.422010,0.000000
+						28.231950,50.408710,0.000000 28.278980,50.379690,0.000000
+						28.352880,50.333950,0.000000 28.359230,50.330080,0.000000
+						28.360950,50.329140,0.000000 28.363950,50.328370,0.000000
+						28.373910,50.326650,0.000000 28.429530,50.316180,0.000000
+						28.448570,50.312660,0.000000 28.472360,50.308200,0.000000
+						28.473640,50.307850,0.000000 28.479050,50.306820,0.000000
+						28.484890,50.305790,0.000000 28.506850,50.301740,0.000000
+						28.506950,50.301930,0.000000 28.525450,50.311520,0.000000
+						28.526590,50.312070,0.000000 28.529040,50.313170,0.000000
+						28.529770,50.313420,0.000000 28.530990,50.313910,0.000000
+						28.532360,50.314370,0.000000 28.535320,50.315250,0.000000
+						28.537470,50.315780,0.000000 28.549460,50.318400,0.000000
+						28.556540,50.319880,0.000000 28.563880,50.321490,0.000000
+						28.573320,50.323490,0.000000 28.577400,50.324390,0.000000
+						28.579380,50.324780,0.000000 28.582720,50.325310,0.000000
+						28.584440,50.325480,0.000000 28.587960,50.325700,0.000000
+						28.608690,50.326350,0.000000 28.612380,50.326490,0.000000
+						28.630910,50.327050,0.000000 28.640790,50.327390,0.000000
+						28.647890,50.327590,0.000000 28.648790,50.327590,0.000000
+						28.650230,50.327500,0.000000 28.651900,50.327260,0.000000
+						28.675010,50.322670,0.000000 28.675430,50.322560,0.000000
+						28.682010,50.321210,0.000000 28.690420,50.319540,0.000000
+						28.696300,50.318470,0.000000 28.698640,50.318160,0.000000
+						28.699690,50.318080,0.000000 28.702570,50.317980,0.000000
+						28.705410,50.318060,0.000000 28.709320,50.318360,0.000000
+						28.725780,50.319840,0.000000 28.728010,50.320010,0.000000
+						28.730950,50.320170,0.000000 28.732880,50.320180,0.000000
+						28.740350,50.320080,0.000000 28.752410,50.319840,0.000000
+						28.760560,50.319630,0.000000 28.762980,50.319530,0.000000
+						28.765640,50.319100,0.000000 28.767700,50.318500,0.000000
+						28.769000,50.317970,0.000000 28.770690,50.317200,0.000000
+						28.771960,50.316500,0.000000 28.772840,50.315920,0.000000
+						28.774440,50.314740,0.000000 28.775120,50.314120,0.000000
+						28.782570,50.306430,0.000000 28.791740,50.296600,0.000000
+						28.794010,50.294510,0.000000 28.801590,50.287980,0.000000
+						28.802300,50.287410,0.000000 28.802690,50.286990,0.000000
+						28.802780,50.286830,0.000000 28.802770,50.286670,0.000000
+						28.802670,50.286510,0.000000 28.802420,50.286370,0.000000
+						28.801950,50.286280,0.000000 28.799190,50.286220,0.000000
+						28.799040,50.286000,0.000000 28.799060,50.285940,0.000000
+						28.799150,50.285900,0.000000 28.799790,50.285980,0.000000
+						28.800330,50.286120,0.000000 28.806980,50.286250,0.000000
+						28.808620,50.286250,0.000000 28.814650,50.286400,0.000000
+						28.829490,50.286590,0.000000 28.894720,50.287800,0.000000
+						28.910690,50.288190,0.000000 28.912120,50.288260,0.000000
+						28.913620,50.288400,0.000000 28.915610,50.288730,0.000000
+						28.921520,50.289780,0.000000 28.923440,50.290250,0.000000
+						28.924890,50.290750,0.000000 28.925970,50.291250,0.000000
+						28.926870,50.291700,0.000000 28.928280,50.292660,0.000000
+						28.933050,50.296870,0.000000 28.942440,50.304950,0.000000
+						28.946220,50.308400,0.000000 28.950000,50.312420,0.000000
+						28.958490,50.325290,0.000000 28.960470,50.327180,0.000000
+						28.963380,50.328820,0.000000 28.966130,50.329940,0.000000
+						29.028000,50.341450,0.000000 29.033450,50.342370,0.000000
+						29.053260,50.345420,0.000000 29.055020,50.345650,0.000000
+						29.056330,50.345740,0.000000 29.057960,50.345780,0.000000
+						29.059280,50.345720,0.000000 29.060880,50.345540,0.000000
+						29.063180,50.345120,0.000000 29.063730,50.344990,0.000000
+						29.071410,50.342830,0.000000 29.079440,50.340730,0.000000
+						29.081760,50.339870,0.000000 29.082470,50.339550,0.000000
+						29.082990,50.339260,0.000000 29.083300,50.339070,0.000000
+						29.083800,50.338670,0.000000 29.084650,50.337890,0.000000
+						29.096050,50.326130,0.000000 29.096470,50.325740,0.000000
+						29.097410,50.325030,0.000000 29.098090,50.324590,0.000000
+						29.099520,50.323840,0.000000 29.100290,50.323510,0.000000
+						29.101140,50.323200,0.000000 29.102000,50.322950,0.000000
+						29.102930,50.322720,0.000000 29.103880,50.322530,0.000000
+						29.105230,50.322340,0.000000 29.106760,50.322230,0.000000
+						29.108140,50.322220,0.000000 29.109220,50.322270,0.000000
+						29.110880,50.322430,0.000000 29.134550,50.326620,0.000000
+						29.199310,50.337940,0.000000 29.251060,50.346670,0.000000
+						29.271180,50.350000,0.000000 29.286760,50.352640,0.000000
+						29.288390,50.352950,0.000000 29.320190,50.358150,0.000000
+						29.335990,50.360900,0.000000 29.359250,50.364760,0.000000
+						29.370920,50.366900,0.000000 29.434690,50.379010,0.000000
+						29.502350,50.391740,0.000000 29.514690,50.394050,0.000000
+						29.517300,50.394420,0.000000 29.522840,50.395580,0.000000
+						29.530740,50.397120,0.000000 29.566680,50.404010,0.000000
+						29.581460,50.406900,0.000000 29.582830,50.407120,0.000000
+						29.593130,50.409220,0.000000 29.611420,50.412650,0.000000
+						29.629530,50.416340,0.000000 29.646350,50.419690,0.000000
+						29.660770,50.422440,0.000000 29.672440,50.423980,0.000000
+						29.708730,50.423340,0.000000 29.717500,50.423300,0.000000
+						29.720850,50.423210,0.000000 29.747290,50.417370,0.000000
+						29.750550,50.416770,0.000000 29.756130,50.416170,0.000000
+						29.758250,50.416130,0.000000 29.758790,50.416170,0.000000
+						29.767890,50.416340,0.000000 29.777500,50.416690,0.000000
+						29.800670,50.417370,0.000000 29.806570,50.417480,0.000000
+						29.818910,50.417800,0.000000 29.837320,50.418580,0.000000
+						29.855540,50.419560,0.000000 29.876290,50.420810,0.000000
+						29.879720,50.421070,0.000000 29.898690,50.422160,0.000000
+						29.922720,50.423640,0.000000 29.982510,50.427120,0.000000
+						29.983660,50.427160,0.000000 29.999890,50.428260,0.000000
+						30.011360,50.429260,0.000000 30.013810,50.429410,0.000000
+						30.035930,50.431190,0.000000 30.039350,50.431500,0.000000
+						30.050050,50.432270,0.000000 30.063920,50.433320,0.000000
+						30.065180,50.433450,0.000000 30.070760,50.433850,0.000000
+						30.112150,50.437200,0.000000 30.149960,50.440180,0.000000
+						30.184010,50.442930,0.000000 30.192600,50.443590,0.000000
+						30.200040,50.444240,0.000000 30.201500,50.444320,0.000000
+						30.202680,50.444440,0.000000 30.205510,50.444620,0.000000
+						30.206560,50.444730,0.000000 30.212170,50.445180,0.000000
+						30.223280,50.445930,0.000000 30.234100,50.446710,0.000000
+						30.252330,50.448080,0.000000 30.306370,50.451940,0.000000
+						30.309140,50.452110,0.000000 30.312470,50.452370,0.000000
+						30.344460,50.454550,0.000000 30.351630,50.454920,0.000000
+						30.368780,50.456100,0.000000 30.395910,50.457890,0.000000
+						30.399870,50.458180,0.000000 30.399870,50.458180,0.000000
+						30.401310,50.458320,0.000000 30.411910,50.458970,0.000000
+						30.414400,50.459260,0.000000 30.414860,50.459280,0.000000
+						30.416440,50.459220,0.000000 30.417340,50.459110,0.000000
+						30.421540,50.458360,0.000000 30.425800,50.457700,0.000000
+						30.433350,50.456440,0.000000 30.447590,50.454170,0.000000
+						30.460240,50.452060,0.000000 30.480320,50.448790,0.000000
+						30.481470,50.448570,0.000000 30.481470,50.448570,0.000000
+						30.481960,50.448400,0.000000 30.482530,50.448260,0.000000
+						30.482720,50.448150,0.000000 30.482770,50.447900,0.000000
+						30.482550,50.447460,0.000000 30.482420,50.447410,0.000000
+						30.482260,50.447410,0.000000 30.482140,50.447460,0.000000
+						30.481970,50.447620,0.000000 30.481970,50.447620,0.000000
+						30.485920,50.457390,0.000000 30.485920,50.457390,0.000000
+						30.487100,50.457960,0.000000 30.487100,50.457960,0.000000
+						30.487920,50.457330,0.000000 30.489970,50.456330,0.000000
+						30.490460,50.456150,0.000000 30.501780,50.456460,0.000000
+						30.503130,50.456140,0.000000 30.506090,50.455360,0.000000
+						30.506090,50.455360,0.000000 30.507260,50.455230,0.000000
+						30.507260,50.455230,0.000000 30.507940,50.455150,0.000000
+						30.508410,50.455130,0.000000 30.514110,50.455430,0.000000
+						30.514890,50.455440,0.000000 30.519510,50.455300,0.000000
+						30.520310,50.455140,0.000000 30.520510,50.455030,0.000000
+						30.520510,50.455030,0.000000 30.521810,50.453330,0.000000
+						30.522470,50.451410,0.000000 30.522860,50.451240,0.000000
+						30.524400,50.450400,0.000000 30.524400,50.450400,0.000000
+						30.523640,50.449840,0.000000 </coordinates>
+				</LineString>
+			</GeometryCollection>
+			<styleUrl>#roadStyle</styleUrl>
+		</Placemark>
+	</Document>
+</kml>

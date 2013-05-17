@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android mp3 player</string>
+    <string name="play_str">PLAY</string>
+    <string name="pause_str">PAUSE</string>
+</resources>

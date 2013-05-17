@@ -1,0 +1,4 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_expanded="true" android:drawable="@drawable/group_indicator_expanded" />
+    <item android:drawable="@drawable/group_indicator" />
+</selector>

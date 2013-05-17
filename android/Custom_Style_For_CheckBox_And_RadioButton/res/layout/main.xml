@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical"
+	android:layout_width="match_parent" android:layout_height="match_parent" android:gravity="center">
+	<CheckBox android:text="Custom CheckBox" android:button="@drawable/checkbox_selector" android:layout_width="wrap_content"
+		android:layout_weight="1" android:layout_height="0dp"></CheckBox>
+	<RadioGroup android:layout_width="wrap_content" android:layout_weight="1" android:layout_height="0dp">
+		<RadioButton android:button="@drawable/radiobutton_selector" android:text="Custom RadioButton 1"
+			android:layout_height="wrap_content" android:layout_width="wrap_content"></RadioButton>
+		<RadioButton android:button="@drawable/radiobutton_selector" android:text="Custom RadioButton 2"
+			android:layout_height="wrap_content" android:layout_width="wrap_content"></RadioButton>
+		<RadioButton android:button="@drawable/radiobutton_selector" android:text="Custom RadioButton 3"
+			android:layout_height="wrap_content" android:layout_width="wrap_content"></RadioButton>
+	</RadioGroup>
+</LinearLayout>
