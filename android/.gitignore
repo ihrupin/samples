@@ -1,5 +1,7 @@
 bin
 gen
+target
 .settings
 .git
 .idea
+.DS_Store
