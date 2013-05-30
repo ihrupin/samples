@@ -24,6 +24,7 @@ public class MainActivity extends FragmentActivity {
 		map = ((SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map)).getMap();
 
 		if (map != null) {
+			map.setInfoWindowAdapter(new BalloonAdapter(getLayoutInflater()));
 			map.addMarker(new MarkerOptions().position(LOS_ANGELES).title("Los Angeles")).showInfoWindow();
 			map.addMarker(new MarkerOptions().position(SAN_FRANCISCO).title("San Francisco")
 					.icon(BitmapDescriptorFactory.fromResource(R.drawable.ic_launcher)));
