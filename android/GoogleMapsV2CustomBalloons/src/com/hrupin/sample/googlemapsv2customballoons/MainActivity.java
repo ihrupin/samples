@@ -7,7 +7,6 @@ import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
-import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 public class MainActivity extends FragmentActivity {
@@ -24,8 +23,8 @@ public class MainActivity extends FragmentActivity {
 		map = ((SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map)).getMap();
 
 		if (map != null) {
-			Marker la = map.addMarker(new MarkerOptions().position(LOS_ANGELES).title("Los Angeles"));
-			Marker sf = map.addMarker(new MarkerOptions().position(SAN_FRANCISCO).title("San Francisco").snippet("This is San Francisco")
+			map.addMarker(new MarkerOptions().position(LOS_ANGELES).title("Los Angeles"));
+			map.addMarker(new MarkerOptions().position(SAN_FRANCISCO).title("San Francisco")
 					.icon(BitmapDescriptorFactory.fromResource(R.drawable.ic_launcher)));
 		}
 	}
