@@ -35,7 +35,7 @@
         android:theme="@style/AppTheme" >
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="your_api_key" />
+            android:value="AIzaSyAgeMHmvUQww2xFwB9hBzsUBFwgfZgNcfQ" />
 
         <activity
             android:name="com.hrupin.sample.googlemapsv2customballoons.MainActivity"
