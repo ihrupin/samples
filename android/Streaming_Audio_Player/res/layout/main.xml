@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="fill_parent"
-	android:layout_height="fill_parent">
-	<Button android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/buttonVideoSample" android:text="Video Sample"></Button>
-</LinearLayout>
+<RelativeLayout
+android:id="@+id/widget31"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditText
+        android:id="@+id/EditTextSongURL"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:ems="10"
+        android:height="100dp"
+        android:lines="3"
+        android:maxLines="3"
+        android:minLines="1" >
+
+        <requestFocus />
+        <requestFocus />
+
+    </EditText>
+
+    <ImageButton
+        android:id="@+id/ButtonTestPlayPause"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/EditTextSongURL"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="TestPlayPause"
+        android:onClick="onClick"
+        android:src="@drawable/button_play" />
+
+    <SeekBar
+        android:id="@+id/SeekBarTestPlay"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/ButtonTestPlayPause" />
+
+</RelativeLayout>
