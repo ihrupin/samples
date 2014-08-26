@@ -44,9 +44,6 @@
         <meta-data
    			android:name="com.google.android.maps.v2.API_KEY"
             android:value="AIzaSyAgeMHmvUQww2xFwB9hBzsUBFwgfZgNcfQ" />
-        <meta-data
-            android:name="com.google.android.gms.version"
-            android:value="@integer/google_play_services_version" />
 
         <activity
             android:name="com.hrupin.sample.googlemapsv2customballoons.MainActivity"
