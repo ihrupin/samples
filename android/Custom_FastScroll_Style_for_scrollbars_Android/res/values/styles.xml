@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme">
+        <item name="android:fastScrollThumbDrawable">@drawable/fastscroll_drawable</item>
+        <item name="android:fastScrollOverlayPosition">atThumb</item>
+        <item name="android:fastScrollTrackDrawable">@drawable/track_fastscroll</item>
+    </style>
+</resources>
