@@ -26,7 +26,7 @@ public class MyApplication extends Application {
 			for(String s : children){
 				if(!s.equals("lib")){
 					deleteDir(new File(appDir, s));
-					Log.i("TAG", "**************** File /data/data/APP_PACKAGE/" + s +" DELETED *******************");
+					Log.i("TAG", "File /data/data/APP_PACKAGE/" + s +" DELETED");
 				}
 			}
 		}
