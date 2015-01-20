@@ -29,18 +29,24 @@ public class MainActivity extends Activity implements SensorEventListener, View.
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+    }
 
-        background = (RelativeLayout)findViewById(R.id.rlBackground);
-        background.setOnClickListener(this);
-        text = (TextView)findViewById(R.id.text);
-        resetScreenUI();
+    @Override
+    protected void onResume() {
+        super.onResume();
+        if(sensorMgr == null) {
+            background = (RelativeLayout) findViewById(R.id.rlBackground);
+            background.setOnClickListener(this);
+            text = (TextView) findViewById(R.id.text);
+            resetScreenUI();
 
-        sensorMgr = (SensorManager) getSystemService(SENSOR_SERVICE);
-        boolean accelSupported = sensorMgr.registerListener(this, sensorMgr.getDefaultSensor(Sensor.TYPE_ACCELEROMETER), SensorManager.SENSOR_DELAY_GAME);
+            sensorMgr = (SensorManager) getSystemService(SENSOR_SERVICE);
+            boolean accelSupported = sensorMgr.registerListener(this, sensorMgr.getDefaultSensor(Sensor.TYPE_ACCELEROMETER), SensorManager.SENSOR_DELAY_GAME);
 
-        if (!accelSupported) {
-            // on accelerometer on this device
-            sensorMgr.unregisterListener(this, sensorMgr.getDefaultSensor(Sensor.TYPE_ACCELEROMETER));
+            if (!accelSupported) {
+                // on accelerometer on this device
+                sensorMgr.unregisterListener(this, sensorMgr.getDefaultSensor(Sensor.TYPE_ACCELEROMETER));
+            }
         }
     }
 
