@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: GithubLink
-Plugin URI: http://www.hrupin.com
+Plugin URI: http://www.hrupin.com/2014/12/wordpress-plugin-for-showing-link-to-github
 Description: This plugin help show source link
 Version: 1.0 BETA
 Author: Igor Khrupin
