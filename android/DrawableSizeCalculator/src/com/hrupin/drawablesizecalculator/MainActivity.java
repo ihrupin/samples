@@ -146,50 +146,38 @@ public class MainActivity extends Activity implements TextWatcher, OnTouchListen
     @Override
     public boolean onTouch(View v, MotionEvent event) {
         if(v.getId() == etLdpi.getId()){
-            etLdpi.removeTextChangedListener(twLdpi);
-            etMdpi.removeTextChangedListener(twMdpi);
-            etHdpi.removeTextChangedListener(twHdpi);
-            etXhdpi.removeTextChangedListener(twXhdpi);
-            etXxhdpi.removeTextChangedListener(twXxhdpi);
+            clearTextWatchers();
             
             etLdpi.addTextChangedListener(twLdpi);
         }
         if(v.getId() == etMdpi.getId()){
-            etLdpi.removeTextChangedListener(twLdpi);
-            etMdpi.removeTextChangedListener(twMdpi);
-            etHdpi.removeTextChangedListener(twHdpi);
-            etXhdpi.removeTextChangedListener(twXhdpi);
-            etXxhdpi.removeTextChangedListener(twXxhdpi);
+            clearTextWatchers();
             
             etMdpi.addTextChangedListener(twMdpi);
         }
         if(v.getId() == etHdpi.getId()){
-            etLdpi.removeTextChangedListener(twLdpi);
-            etMdpi.removeTextChangedListener(twMdpi);
-            etHdpi.removeTextChangedListener(twHdpi);
-            etXhdpi.removeTextChangedListener(twXhdpi);
-            etXxhdpi.removeTextChangedListener(twXxhdpi);
+            clearTextWatchers(); 
             
             etHdpi.addTextChangedListener(twHdpi);
         }
         if(v.getId() == etXhdpi.getId()){
-            etLdpi.removeTextChangedListener(twLdpi);
-            etMdpi.removeTextChangedListener(twMdpi);
-            etHdpi.removeTextChangedListener(twHdpi);
-            etXhdpi.removeTextChangedListener(twXhdpi);
-            etXxhdpi.removeTextChangedListener(twXxhdpi);
+            clearTextWatchers();
             
             etXhdpi.addTextChangedListener(twXhdpi);
         }
         if(v.getId() == etXxhdpi.getId()){
-            etLdpi.removeTextChangedListener(twLdpi);
-            etMdpi.removeTextChangedListener(twMdpi);
-            etHdpi.removeTextChangedListener(twHdpi);
-            etXhdpi.removeTextChangedListener(twXhdpi);
-            etXxhdpi.removeTextChangedListener(twXxhdpi);
+            clearTextWatchers();
             
             etXxhdpi.addTextChangedListener(twXxhdpi);
         }
         return false;
+    }
+
+    private void clearTextWatchers() {
+        etLdpi.removeTextChangedListener(twLdpi);
+        etMdpi.removeTextChangedListener(twMdpi);
+        etHdpi.removeTextChangedListener(twHdpi);
+        etXhdpi.removeTextChangedListener(twXhdpi);
+        etXxhdpi.removeTextChangedListener(twXxhdpi);
     }
 }
