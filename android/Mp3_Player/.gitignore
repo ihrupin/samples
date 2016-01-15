@@ -1,5 +1,3 @@
-bin
-gen
-.settings
-.git
-target
+.DS_Store
+.idea/
+build
