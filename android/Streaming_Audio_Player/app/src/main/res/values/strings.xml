@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Android mp3 player</string>
-    <string name="testsong_20_sec">http://users.skynet.be/fa046054/home/P22/track06.mp3</string>
+    <string name="testsong_20_sec">http://www.hrupin.com/wp-content/uploads/mp3/testsong_20_sec.mp3</string>
 </resources>
