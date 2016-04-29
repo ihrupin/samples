@@ -32,7 +32,7 @@ import java.util.TimerTask;
 
 public class VideoSample extends Activity implements OnSeekBarChangeListener, Callback, OnPreparedListener, OnCompletionListener, OnBufferingUpdateListener,
         OnClickListener, OnSeekCompleteListener, AnimationListener {
-    private static final String URL = "http://www.hrupin.com/wp-content/uploads/2016/01/sample_video.3gp";
+    private static final String TAG = "VideoSample";
     private TextView textViewPlayed;
     private TextView textViewLength;
     private SeekBar seekBarProgress;
@@ -44,12 +44,14 @@ public class VideoSample extends Activity implements OnSeekBarChangeListener, Ca
     private Timer updateTimer;
     private Animation hideMediaController;
     private LinearLayout linearLayoutMediaController;
-    private static final String TAG = "VideoSample";
+    private Bundle extras;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.videosample);
+
+        extras = getIntent().getExtras();
 
         linearLayoutMediaController = (LinearLayout) findViewById(R.id.linearLayoutMediaController);
         linearLayoutMediaController.setVisibility(View.GONE);
@@ -91,26 +93,30 @@ public class VideoSample extends Activity implements OnSeekBarChangeListener, Ca
     }
 
     private void playVideo() {
-        new Thread(new Runnable() {
-            public void run() {
-                try {
-                    player.setDataSource(URL);
-                    player.prepare();
-                } catch (IllegalArgumentException e) {
-                    e.printStackTrace();
-                    showToast("Error while playing video");
-                    e.printStackTrace();
-                } catch (IllegalStateException e) {
-                    e.printStackTrace();
-                    showToast("Error while playing video");
-                    e.printStackTrace();
-                } catch (IOException e) {
-                    e.printStackTrace();
-                    showToast("Error while playing video. Please, check your network connection.");
-                    e.printStackTrace();
+        if (extras.getString("video_path").equals("VIDEO_URI")) {
+            showToast("Please, set the video URI in the MainActivity.java");
+        } else {
+            new Thread(new Runnable() {
+                public void run() {
+                    try {
+                        player.setDataSource(extras.getString("video_path"));
+                        player.prepare();
+                    } catch (IllegalArgumentException e) {
+                        e.printStackTrace();
+                        showToast("Error while playing video");
+                        e.printStackTrace();
+                    } catch (IllegalStateException e) {
+                        e.printStackTrace();
+                        showToast("Error while playing video");
+                        e.printStackTrace();
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                        showToast("Error while playing video. Please, check your network connection.");
+                        e.printStackTrace();
+                    }
                 }
-            }
-        }).start();
+            }).start();
+        }
     }
 
     private void showToast(final String string) {
