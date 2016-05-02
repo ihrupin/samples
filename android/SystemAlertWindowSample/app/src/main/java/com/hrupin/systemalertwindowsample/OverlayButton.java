@@ -19,7 +19,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * Created by Igor Khrupin www.hrupin.com on 4/29/16.
  */
-public class OverlayButton implements View.OnClickListener, View.OnTouchListener {
+public class OverlayButton implements View.OnClickListener {
     private static final String TAG = "OverlayButton";
 
     private static final AtomicInteger sNextGeneratedId = new AtomicInteger(1);
@@ -41,7 +41,6 @@ public class OverlayButton implements View.OnClickListener, View.OnTouchListener
         button.setText("Send Toast");
         button.setTextColor(Color.RED);
         button.setOnClickListener(this);
-        button.setOnTouchListener(this);
 
         mWindowManager = (WindowManager) mContext.getSystemService(Context.WINDOW_SERVICE);
 
@@ -89,12 +88,6 @@ public class OverlayButton implements View.OnClickListener, View.OnTouchListener
         remove();
     }
 
-    /**
-     * Generate a value suitable for use in {@link #setId(int)}.
-     * This value will not collide with ID values generated at build time by aapt for R.id.
-     *
-     * @return a generated ID value
-     */
     public static int generateViewId() {
         for (; ; ) {
             final int result = sNextGeneratedId.get();
@@ -105,11 +98,5 @@ public class OverlayButton implements View.OnClickListener, View.OnTouchListener
                 return result;
             }
         }
-    }
-
-    @Override
-    public boolean onTouch(View v, MotionEvent event) {
-        Toast.makeText(mContext, "Button touched", Toast.LENGTH_SHORT).show();
-        return false;
     }
 }
