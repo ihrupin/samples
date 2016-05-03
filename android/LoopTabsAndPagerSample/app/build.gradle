@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "com.hrupin.testapp"
+        applicationId "com.hrupin.looptabs"
         minSdkVersion 11
         targetSdkVersion 22
         versionCode 1
