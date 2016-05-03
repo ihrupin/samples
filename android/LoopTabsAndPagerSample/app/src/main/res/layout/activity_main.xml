@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#000000">
+
+    <com.hrupin.looptabs.infinitetabbar.TabBar
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bar_height"
+        android:id="@+id/tabbar"/>
+
+    <com.hrupin.looptabs.looppager.LoopViewPager
+        android:layout_below="@+id/tabbar"
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</RelativeLayout>
