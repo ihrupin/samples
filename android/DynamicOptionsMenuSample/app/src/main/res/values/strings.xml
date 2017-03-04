@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DynamicOptionsMenuSample</string>
+    <string name="menu_action_edit">Edit</string>
+    <string name="menu_action_delete">Delete</string>
+</resources>
