@@ -27,13 +27,8 @@ import java.util.List;
 public class GeofenceTransitionsIntentService extends IntentService {
     private static final String TAG = "GTIntentService";
 
-    /**
-     * Creates an IntentService.  Invoked by your subclass's constructor.
-     *
-     * @param name Used to name the worker thread, important only for debugging.
-     */
-    public GeofenceTransitionsIntentService(String name) {
-        super(name);
+    public GeofenceTransitionsIntentService() {
+        super("GeofenceTransitionsIntentService");
     }
 
     @Override
