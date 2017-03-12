@@ -10,8 +10,18 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.hrupin.samples.androidgeofencessample.MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
+    <Button
+        android:id="@+id/add_geofences_button"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:layout_weight="1"
+        android:text="@string/add_geofences" />
+
+    <Button
+        android:id="@+id/remove_geofences_button"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/remove_geofences" />
+
 </RelativeLayout>
